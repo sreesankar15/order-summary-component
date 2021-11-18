@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Solution URL](https://github.com/sreesankar15/order-summary-component#the-challenge)
--   Live Site URL: [Live Site URL](https://sreesankar15.github.com/order-summary-component)
+-   Live Site URL: [Live Site URL](https://sreesankar15.github.io/order-summary-component)
 
 ### Built with
 
