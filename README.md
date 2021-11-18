@@ -57,7 +57,7 @@ I want to improve on the background related properties css.
 ## Author
 
 -   Website - [P. Sreesankar](https://sreesankar15.github.io/personal-website/)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sreesankar15)
+-   Frontend Mentor - [@sreesankar15](https://www.frontendmentor.io/profile/sreesankar15)
 
 ## Acknowledgments
 
