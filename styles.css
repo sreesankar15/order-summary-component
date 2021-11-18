@@ -1,0 +1,120 @@
+body {
+    font-family: "Red Hat Display";
+    text-align: center;
+    background-color: hsl(225, 100%, 94%);
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p {
+    line-height: 1.5;
+    color: hsl(224, 23%, 55%);
+}
+
+.card {
+    margin: 10vw auto;
+    width: 27rem;
+    border-radius: 1.32rem;
+}
+
+.card-img-top {
+    border-top-left-radius: 1.3rem;
+    border-top-right-radius: 1.3rem;
+}
+
+.card-title {
+    font-weight: 900;
+    margin: 7% 5% 5%;
+}
+
+.card-text {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.payment-plan {
+    border-radius: 11px;
+    box-sizing: border-box;
+    padding: 5%;
+    text-align: left;
+    margin: 4% auto 6%;
+    width: 85%;
+    background-color: hsl(225, 100%, 98%);
+}
+
+.plan-name {
+    display: inline;
+    font-weight: 900;
+    font-size: 16px;
+    margin: 0;
+}
+
+.plan-cost {
+    display: inline;
+}
+
+.music-icon {
+    padding-right: 2%;
+    float: left;
+}
+
+.change {
+    font-size: 14px;
+    display: inline;
+    position: relative;
+    top: 12px;
+    left: 75px;
+    color: hsl(245, 75%, 52%);
+    font-weight: 900;
+}
+
+.btn {
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 3.5%;
+    margin: 0 auto 0.7rem;
+    width: 85%;
+    background-color: white;
+}
+
+.proceed {
+    background-color: hsl(245, 75%, 52%);
+}
+
+.cancel {
+    background-color: white;
+    color: hsl(224, 23%, 55%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.change:hover {
+    color: hsl(250, 65%, 64%);
+    text-decoration: none;
+}
+
+.proceed:hover {
+    background-color: hsl(250, 65%, 64%);
+}
+
+.cancel:hover {
+    background-color: white;
+    color: hsl(223, 47%, 23%);
+}
+
+@media (max-width: 600px) {
+    .card {
+        width: 22rem;
+    }
+    .change {
+        left: 40px;
+    }
+}
